@@ -18,3 +18,5 @@ Bootstrap
 
 
 The website offers an immersive and user-friendly experience, showcasing travel destinations and services efficiently.
+
+*Note: Inorder to view the files and assets you would require to clone it and unzip the asset folder. 
