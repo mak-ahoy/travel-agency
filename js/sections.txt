@@ -1,0 +1,473 @@
+ /*     <div class="header">
+        <nav
+          class="navbar navbar-dark navbar-expand-lg w-100 d-flex justify-content-between"
+        >
+          <div class="container-fluid row d-flex">
+            <div class="logo col-1">
+            <a class="navbar-brand" href="#">
+              <svg
+                id="Group_3669"
+                data-name="Group 3669"
+                xmlns="http://www.w3.org/2000/svg"
+                width="60"
+                height="50"
+                viewBox="0 0 129.857 87.385"
+              >
+                <path
+                  id="Path_1"
+                  data-name="Path 1"
+                  d="M1374.15,1053.1h7.3a8.367,8.367,0,0,0-7.3-7.3Zm-9.238,0h7.3v-7.3a8.367,8.367,0,0,0-7.3,7.3Zm7.3,1.936h-7.358v7.358h7.358Zm9.294,0h-7.358v7.358h7.358Zm-8.326-11.23a10.29,10.29,0,0,1,10.262,10.262v10.262h-20.525v-10.262a10.29,10.29,0,0,1,10.262-10.262Z"
+                  transform="translate(-1308.253 -981.948)"
+                  fill="#fff"
+                />
+                <path
+                  id="Path_2"
+                  data-name="Path 2"
+                  d="M1238.925,558.54l17.763,6.285v2.518l-17.763-6.285Zm0-5.826L1256.688,559v2.518l-17.763-6.285Zm-3.5,5.826-17.763,6.285v2.518l17.763-6.285Zm0-5.826L1217.656,559v2.518l17.763-6.285Zm1.753-3.047,21.268,7.525v16.292l-1.752-.966v-1.868l-9.462-3.348-10.053-5.542-10.054,5.542-9.462,3.348v1.868l-1.752.966V557.192Z"
+                  transform="translate(-1172.244 -524.801)"
+                  fill="#fff"
+                  fill-rule="evenodd"
+                />
+                <path
+                  id="Path_3"
+                  data-name="Path 3"
+                  d="M697.625,737.5l64.928,35.79v7.055l-64.928-35.79L632.7,780.341v-7.055Zm0,10.957,64.928,35.79v1.71l-64.928-35.79L632.7,785.954v-1.71Z"
+                  transform="translate(-632.697 -698.569)"
+                  fill="#fff"
+                  fill-rule="evenodd"
+                />
+                <path
+                  id="Path_4"
+                  data-name="Path 4"
+                  d="M1096.209,233.888c3.845,3.438,2.562,12.348-4.757,5.906,6.1,5.2,8.014-2.325,4.757-5.906m6.355-1.751a5.125,5.125,0,1,0,8.809-2.137,4.9,4.9,0,1,1-8.864,2.872A4.949,4.949,0,0,1,1102.563,232.137Zm32.3,1.751c-3.845,3.438-2.562,12.348,4.757,5.906C1133.527,244.992,1131.612,237.468,1134.868,233.888Zm-6.355-1.751A5.125,5.125,0,1,1,1119.7,230a4.9,4.9,0,1,0,8.809,2.137Zm-12.383-8.953c.669,1.883,1.96,4.5,4.159,5.389a5.773,5.773,0,1,0,8.027,1.533l-.008-.035,4.951-3.911a3.324,3.324,0,0,1-.032-2.04c.378-1.366,1.385-2.28,2.25-2.041s1.26,1.54.883,2.907a3.133,3.133,0,0,1-1.292,1.881l1.258,5.743c-4.493.847-6.1,8.713-2.394,10.191,2.28.908,6.428-2.139,9.656-5.794-.277-.416,0-1.433.683-2.411.757-1.082,1.725-1.706,2.164-1.395s.181,1.44-.576,2.522c-.682.976-1.537,1.579-2.02,1.46l-7.033,10.8-21.268-7.525-21.268,7.525-7.033-10.8c-.483.12-1.338-.484-2.02-1.46-.756-1.082-1.014-2.211-.576-2.522s1.407.313,2.164,1.395c.684.978.96,1.995.683,2.411,3.229,3.656,7.377,6.7,9.656,5.794,3.709-1.478,2.1-9.344-2.394-10.191l1.258-5.743a3.134,3.134,0,0,1-1.292-1.881c-.378-1.366.018-2.668.882-2.907s1.872.675,2.25,2.041a3.324,3.324,0,0,1-.032,2.04l4.951,3.911-.008.035a5.773,5.773,0,1,0,8.027-1.533c2.2-.889,3.49-3.507,4.159-5.389a3.12,3.12,0,0,1-1.252-2.759c0-1.609.826-2.913,1.844-2.913s1.844,1.3,1.844,2.913A3.119,3.119,0,0,1,1116.131,223.183Z"
+                  transform="translate(-1050.61 -217.511)"
+                  fill="#fff"
+                  fill-rule="evenodd"
+                />
+                <path
+                  id="Path_5"
+                  data-name="Path 5"
+                  d="M1844.995,721.079l5.359-1.28v4.394l-5.359,1.28Zm0-6.762,5.359-1.28v4.394l-5.359,1.28Zm-8.455,2.019,5.359-1.28v4.394l-5.359,1.28Zm8.455-8.781,5.359-1.28v4.394l-5.359,1.28Zm-8.455,2.019,5.359-1.28v4.394l-5.359,1.28Zm-8.455,2.019,5.359-1.28v4.394l-5.359,1.28Zm25.262-4.925,8.351,6.735v23.954l-8.351-4.6Zm-26.885,3.447,25.514-6.093V732l-1.813-1,.191-.046v-4.394l-5.359,1.28v.311l-3.39-1.869.295-.07v-4.394l-5.359,1.28v.393l-3.494-1.926.4-.095v-4.394l-5.359,1.28v.474l-.594-.327-1.029-.567Z"
+                  transform="translate(-1737.094 -667.602)"
+                  fill="#fff"
+                  fill-rule="evenodd"
+                />
+                <path
+                  id="Path_6"
+                  data-name="Path 6"
+                  d="M719.578,721.079l-5.359-1.28v4.394l5.359,1.28Zm0-6.762-5.359-1.28v4.394l5.359,1.28Zm8.455,2.019-5.359-1.28v4.394l5.359,1.28Zm-8.455-8.781-5.359-1.28v4.394l5.359,1.28Zm8.455,2.019-5.359-1.28v4.394l5.359,1.28Zm8.455,2.019-5.359-1.28v4.394l5.359,1.28Zm-25.262-4.925-8.351,6.735v23.954l8.351-4.6Zm26.885,3.447L712.6,704.024V732l1.814-1-.192-.046v-4.394l5.359,1.28v.311l3.39-1.869-.295-.07v-4.394l5.359,1.28v.393l3.494-1.926-.4-.095v-4.394l5.359,1.28v.474l.594-.327,1.028-.567Z"
+                  transform="translate(-697.622 -667.602)"
+                  fill="#fff"
+                  fill-rule="evenodd"
+                />
+                <path
+                  id="Path_7"
+                  data-name="Path 7"
+                  d="M1733.521,1166.521h4.175a4.784,4.784,0,0,0-4.175-4.175Zm-5.282,0h4.175v-4.175a4.784,4.784,0,0,0-4.175,4.175Zm4.175,1.107h-4.207v4.207h4.207Zm5.315,0h-4.208v4.207h4.208Zm-4.761-6.422a5.883,5.883,0,0,1,5.868,5.868v5.868H1727.1v-5.868a5.883,5.883,0,0,1,5.868-5.868Z"
+                  transform="translate(-1645.17 -1090.56)"
+                  fill="#fff"
+                />
+                <path
+                  id="Path_8"
+                  data-name="Path 8"
+                  d="M1122.561,1166.521h4.175a4.784,4.784,0,0,0-4.175-4.175Zm-5.282,0h4.175v-4.175a4.784,4.784,0,0,0-4.175,4.175Zm4.175,1.107h-4.207v4.207h4.207Zm5.314,0h-4.207v4.207h4.207Zm-4.761-6.422a5.884,5.884,0,0,1,5.868,5.868v5.868h-11.736v-5.868a5.883,5.883,0,0,1,5.868-5.868Z"
+                  transform="translate(-1079.948 -1090.56)"
+                  fill="#fff"
+                /></svg
+            ></a>
+          </div>
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+              style="align-self: self-start;"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div
+              class="collapse navbar-collapse"
+              id="navbarSupportedContent" 
+            >
+              <div class="col-6">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0 d-flex justify-content-between">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Flights</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Hotels</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Transfers</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Activities</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Holidays</a>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a
+                      class="nav-link dropdown-toggle"
+                      href="#"
+                      role="button"
+                      data-bs-toggle="dropdown"
+                      aria-expanded="false"
+                    >
+                      More
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="#">About Us</a></li>
+                      <li>
+                        <a class="dropdown-item" href="#">Legal</a>
+                      </li>
+                      <li><hr class="dropdown-divider" /></li>
+                      <li>
+                        <a class="dropdown-item" href="#"
+                          >Something else here</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="col-2">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item dropdown">
+                    <a
+                      class="nav-link dropdown-toggle"
+                      href="#"
+                      role="button"
+                      data-bs-toggle="dropdown"
+                      aria-expanded="false"
+                    >
+                    <i class="bi-globe"></i>
+                      English
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="#">Urdu</a></li>
+                      <li><a class="dropdown-item" href="#">Spanish</a></li>
+                      <li><hr class="dropdown-divider" /></li>
+                      <li>
+                        <a class="dropdown-item" href="#"
+                          >Something else here</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#"><button class="btn btn-outline-secondary btn-xs">Register</button></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#"><button class="btn btn-outline-secondary btn-xs">Sign In</button></a>
+                  </li>
+                </ul>
+              </div>
+            <!-- </div> -->
+          </div>
+        </nav>
+      </div>
+      */
+
+
+    --------------------temp header---------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <section class="hero">
+      <h1 class="text-center">Hero section</h1>
+
+     
+      <div class="d-flex justify-content-center w-100">
+        <div class=" d-flex justify-content-start" style="width: 53%;">
+        <button class="btn btn-success btn-xs-menu">Hotels</button>
+        <button class="btn btn-outline-success btn-xs-menu">Flights</button>
+        </div>
+      </div>
+      
+
+  
+      <div class=" d-flex justify-content-center">
+
+
+       <div class="dropdown-btns" style="color: green;">
+      <div class="btn-group">
+        <button class="btn dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false">
+          <i class="bi bi-geo-alt-fill"></i> Default dropdown
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="defaultDropdown">
+          <li><a class="dropdown-item" href="#">Menu item</a></li>
+          <li><a class="dropdown-item" href="#">Menu item</a></li>
+          <li><a class="dropdown-item" href="#">Menu item</a></li>
+        </ul>
+      </div>
+
+      <div class="vr"></div>
+
+      <div class="btn-group">
+        <button class="btn dropdown-toggle" type="button" id="dropdownMenuClickableOutside" data-bs-toggle="dropdown" data-bs-auto-close="inside" aria-expanded="false">
+          <i class="bi bi-calendar2-minus"> </i>Clickable outside
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuClickableOutside">
+          <li><a class="dropdown-item" href="#">Menu item</a></li>
+          <li><a class="dropdown-item" href="#">Menu item</a></li>
+          <li><a class="dropdown-item" href="#">Menu item</a></li>
+        </ul>
+      </div>
+      <div class="vr"></div>
+
+      <div class="btn-group">
+        <button class="btn  dropdown-toggle" type="button" id="dropdownMenuClickableInside" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">
+          <i class="bi bi-people"></i> Clickable inside
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuClickableInside">
+          <li><a class="dropdown-item" href="#">Menu item</a></li>
+          <li><a class="dropdown-item" href="#">Menu item</a></li>
+          <li><a class="dropdown-item" href="#">Menu item</a></li>
+        </ul>
+      </div>
+
+      <div class="vr""></div>
+  
+      <div class="btn-group">
+        <button class="btn dropdown-toggle" type="button" id="dropdownMenuClickable" data-bs-toggle="dropdown" data-bs-auto-close="false" aria-expanded="false">
+          Manual close
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuClickable">
+          <li><a class="dropdown-item" href="#">Menu item</a></li>
+          <li><a class="dropdown-item" href="#">Menu item</a></li>
+          <li><a class="dropdown-item" href="#">Menu item</a></li>
+        </ul>
+      </div>
+    </div>
+    
+    </div>
+
+    <div class="d-flex justify-content-center">
+      <button class="btn btn-success">Search</button>
+    </div>
+
+    </section>
+
+    <section class="main">
+  <h1 class="text-center">Top Activity Destinations</h1>
+  <div class="container bg-secondary">
+  <div class="row"></div>
+    <div class="cards-wrapper">
+      <div class="card">
+        <img src="assets/Activities Destinations/Mask Group -1.png" class="" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          
+        </div>
+      </div>
+      <div class="card">
+        <img src="assets/Activities Destinations/Mask Group 206.png" class="" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          
+        </div>
+      </div>
+      <div class="card">
+        <img src="assets/Activities Destinations/Mask Group 207.png" class="" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+       
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+    </section>
+    
+    <section class="hero">
+      <div class="container" style="height: 80vh;">
+      <div class="row" style="padding: 5%;">
+        <div class="col-6">
+        <h3>Why Us?</h3>
+        <h1 class="align-self-start">We Make All The <br> Process Easy.</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet soluta nam quo tempora autem m quam nulla dolore delectus!</p>
+        <div class="row" style="display: flex; flex-wrap: wrap;">
+          <div class="col-6 card" >
+            <div class="card-body">
+              card1
+            </div>
+          </div>
+          <div class="col-6 card">
+            <div class="card-body">
+              card2
+            </div>
+          </div>
+          <div class="col-6 card">
+            <div class="card-body">
+                card3
+            </div>
+          </div>
+          <div class="col-6 card">
+            <div class="card-body">
+              card4
+            </div>
+          </div>
+        </div>
+        </div>
+        <div class="col-6">
+         <img src="assets/Why us/3997631.svg" class="img-fluid" alt="woman standing">
+        </div>
+      </div>
+    </div>
+    </section>
+
+    
+<section class="">
+
+<div class="container-fluid" style="margin-top:20px; margin-bottom: 20px; ">
+<h1 style="text-align:center;">Visits state and Countries</h1><br>
+<div class="row">
+
+
+<ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="showall-tab" data-toggle="pill" href="#showall" role="tab" aria-controls="showall" aria-selected="true">Show All</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="Cars-tab" data-toggle="pill" href="#Cars" role="tab" aria-controls="Cars" aria-selected="false">Cars</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="City-tab" data-toggle="pill" href="#City" role="tab" aria-controls="City" aria-selected="false">City</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="Forest-tab" data-toggle="pill" href="#Forest" role="tab" aria-controls="Forest" aria-selected="false">Forest</a>
+  </li>
+</ul>
+
+<div class="container">
+<div class="tab-content" id="pills-tabContent">
+  <div class="tab-pane fade show active" id="showall" role="tabpanel" aria-labelledby="showall-tab">
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="assets/Visit States and Countries/Mask Group 211.png" alt=""></a><div class="desc row">
+      <div class="col-12 d-flex justify-content-between">
+        <div><p>Entire cabin. 9 beds</p></div> <div><i class="bi bi-heart-fill" style="color: red;"></i></div>
+        <br>
+      </div>
+      <div>
+        <h5 class="align-self-start">Dubai's Burj</h5>
+        <hr>
+        <div>
+         
+        </div>
+        <div class="row">
+          <div class="col-2">
+            <p>$298/per night</p>
+          </div class="col-10">
+          <!-- <i class="bi bi-star-fill" style="color:rgb(236, 225, 24);"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star"></i> -->
+        </div>
+      </div>
+    </div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="assets/Visit States and Countries/Mask Group 212.png" alt=""></a><div class="desc row">
+      <div class="col-12 d-flex justify-content-between">
+        <div><p>Entire cabin. 9 beds</p></div> <div><i class="bi bi-heart"></i></div>
+      </div>
+    </div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="assets/Visit States and Countries/Mask Group 213.png" alt=""></a><div class="desc row">
+      <div class="col-12 d-flex justify-content-between">
+        <div><p>Entire cabin. 9 beds</p></div> <div><i class="bi bi-heart"></i></div>
+      </div>
+    </div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="assets/Visit States and Countries/Mask Group 214.png" alt=""></a><div class="desc row">
+      <div class="col-12 d-flex justify-content-between">
+        <div><p>Entire cabin. 9 beds</p></div> <div><i class="bi bi-heart"></i></div>
+      </div>
+    </div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="assets/Visit States and Countries/Mask Group 215.png" alt=""></a><div class="desc row">
+      <div class="col-12 d-flex justify-content-between">
+        <div><p>Entire cabin. 9 beds</p></div> <div><i class="bi bi-heart"></i></div>
+      </div>
+    </div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="assets/Visit States and Countries/Mask Group 216.png" alt=""></a><div class="desc row">
+      <div class="col-12 d-flex justify-content-between">
+        <div><p>Entire cabin. 9 beds</p></div> <div><i class="bi bi-heart"></i></div>
+      </div>
+    </div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="assets/Visit States and Countries/Mask Group 217.png" alt=""></a><div class="desc row">
+      <div class="col-12 d-flex justify-content-between">
+        <div><p>Entire cabin. 9 beds</p></div> <div><i class="bi bi-heart"></i></div>
+      </div>
+    </div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="assets/Visit States and Countries/Mask Group 218.png" alt=""></a><div class="desc row">
+      <div class="col-12 d-flex justify-content-between">
+        <div><p>Entire cabin. 9 beds</p></div> <div><i class="bi bi-heart"></i></div>
+      </div>
+    </div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="assets/Visit States and Countries/Mask Group 212.png" alt=""></a><div class="desc row">
+      <div class="col-12 d-flex justify-content-between">
+        <div><p>Entire cabin. 9 beds</p></div> <div><i class="bi bi-heart"></i></div>
+      </div>
+    </div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="assets/Visit States and Countries/Mask Group 213.png" alt=""></a><div class="desc row">
+      <div class="col-12 d-flex justify-content-between">
+        <div><p>Entire cabin. 9 beds</p></div> <div><i class="bi bi-heart"></i></div>
+      </div>
+    
+    </div></div>
+    
+  </div>
+  <div class="tab-pane fade" id="Cars" role="tabpanel" aria-labelledby="Cars-tab">
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="http://placehold.it/400x400" alt=""></a><div class="desc">Car 1</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="http://placehold.it/400x400" alt=""></a><div class="desc">Car 2</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="http://placehold.it/400x400" alt=""></a><div class="desc">Car 3</div></div>
+  </div>
+  <div class="tab-pane fade" id="City" role="tabpanel" aria-labelledby="City-tab">
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="http://placehold.it/400x400" alt=""></a><div class="desc">City 1</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="http://placehold.it/400x400" alt=""></a><div class="desc">City 2</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="http://placehold.it/400x400" alt=""></a><div class="desc">City 3</div></div>
+  </div>
+  <div class="tab-pane fade" id="Forest" role="tabpanel" aria-labelledby="Forest-tab">
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="http://placehold.it/400x400" alt=""></a><div class="desc">Forest 1</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="http://placehold.it/400x400" alt=""></a><div class="desc">Forest 2</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="http://placehold.it/400x400" alt=""></a><div class="desc">Forest 3</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="http://placehold.it/400x400" alt=""></a><div class="desc">Forest 4</div></div>
+  </div>
+</div>
+</div>
+
+</div>
+</section>
+    
+
+
+
+  <section style="background-color: rgb(0, 51, 11); color:white; padding: 5%;">
+      <div class="container">
+        <div class="row">
+          <div class="col-6 p-5" >
+          <h1 style="text-align: start;">Become a member</h1>
+          <p style="text-align: start;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat velit dolores tempore illum nam, nulla, accusamus eligendi minus ratione, officia dolor eius nesciunt provident laborum totam labore commodi incidunt autem.</p>
+
+          </div>
+          <div class="col-6">
+            <img src="assets/Become A member/Mask Group 226.png" class="img-fluid" alt="">
+          </div>
+
+        </div>
+      </div>
+    </section>
+    <section class="footer">
+      <h1>Footer</h1>
+    </section>
